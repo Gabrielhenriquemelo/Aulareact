@@ -6,7 +6,7 @@ export default function Exercicio1( { fah } )
         <div>
             <h3>Conversão de Fah para Celsius</h3>
 
-            A conversão de {fah}°F para grau Celsius é {Celsius}°C
+            A conversão de {fah}°F para grau Celsius é {celsius}°C
         </div>
     );
 }
